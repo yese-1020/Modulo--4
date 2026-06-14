@@ -1,0 +1,7 @@
+cuanto ejecuto node server.js abro en la web y aparece servidor activo y funcionando 
+en la termianal parece servidor ejecutandose en puerto 3000
+cuando visito la ruta /estado me sale lo siguiente:
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}
