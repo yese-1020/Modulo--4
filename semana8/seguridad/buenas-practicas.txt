@@ -1,0 +1,3 @@
+Proteger datos sensibles como contraseñas y tokens 
+No compartir informacion sensible con la informacion
+Mantener software actualizado 

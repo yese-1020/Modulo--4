@@ -1,0 +1,5 @@
+uname -a 
+nos muestra la informacion completa del sistema operativo 
+
+whoami 
+nos muestra el susario actual en mi caso codespace

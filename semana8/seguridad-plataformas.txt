@@ -1,0 +1,5 @@
+recopilar datos minimos necesarios de informacion sensible 
+No exponer informacion sensible 
+Uso de conexiones seguras 
+Registro de accesos
+restringir permisos inecesarios 
